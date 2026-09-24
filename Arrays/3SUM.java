@@ -26,6 +26,8 @@ class Main {
                 }
                 else {
                     right--;
+
+                    
                 }
             }
         }
